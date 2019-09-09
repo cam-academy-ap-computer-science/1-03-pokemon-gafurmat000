@@ -6,7 +6,7 @@ public class Pokemon {
 		System.out.println("Pikachu welcomes you to the world of Pokemon");
 		System.out.println("(\\_/)");
 		System.out.println("(o^.^)");
-		System.out.println("z(_(“)(“)");
+		System.out.println("z(_(\")(\")");
 	}
 
 }
